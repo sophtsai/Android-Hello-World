@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Hello World</string>
-    <string name="sophie_intro">Hello World! My name is Sophie. My favorite animals are wolves and I would love to learn more about Android Development!</string>
+    <string name="sophie_intro">Hello World! My name is Sophie and I study CS at the University of Maryland, College Park. I would love to learn more about Android Development!</string>
     <string name="button_text">Say hello!</string>
+    <string name="wolf_description">Image of wolf</string>
 </resources>
